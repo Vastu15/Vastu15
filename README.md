@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **OpenGL and GANs**
 
-- 💬 Ask me about **Computer Vision**
+- 💬 Ask me about **Computer Vision and AWS**
 - 📄 I'm [AWS Certified Machine Learning Specialist](https://www.credly.com/badges/19cd7dd8-e3d8-4a73-857f-946df6edfca3/public_url)
 - 📫 How to reach me **utsav15.goel@gmail.com**
 - 😄 Pronouns: He/His
