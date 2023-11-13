@@ -8,7 +8,7 @@
  
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharathvasan" alt="sharathvasan" /></a> </p> -->
 
-- 🔭 I’m currently working on **Building OurEye.ai**
+- 🔭 I’m currently working on **Building Alle**
 
 - 🌱 I’m currently learning **OpenGL and GANs**
 
