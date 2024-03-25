@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Building Alle**
 
-- 🌱 I’m currently learning **OpenGL and GANs**
+- 🌱 I’m currently learning **GPU Programming**
 
-- 💬 Ask me about **Computer Vision and AWS**
+- 💬 Ask me about **Computer Vision, LLMs, VLMs and AWS**
 - 📄 I'm [AWS Certified Machine Learning Specialist](https://www.credly.com/badges/19cd7dd8-e3d8-4a73-857f-946df6edfca3/public_url)
 - 📫 How to reach me **utsav15.goel@gmail.com**
 - 📄 Know about my experiences on  [Linkedin](https://www.linkedin.com/in/utsav-goel-1b82a1148/)
